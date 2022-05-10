@@ -1,0 +1,12 @@
+body {
+  color: black;
+  background-color: white;
+}
+
+button {
+
+  margin: 150px;
+  color: white;
+  background-color: black;
+  font-family: monospace;
+}
